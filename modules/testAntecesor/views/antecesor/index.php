@@ -7,6 +7,16 @@ use yii\widgets\ActiveForm;
 <div class="tree-form">
     <?php $form = ActiveForm::begin(); ?>
         <div class="col-md-12">
+            <div class="col-md-12">
+                <div class="col-md-12 row width: 100%;">
+                    <div class="col-md-10" style="float: left;">
+                        <h3>Análisis de Antecesores - Matriz de Árbol</h3>
+                    </div>
+                </div>
+                <div class="col-md-12 row width: 100%;">
+                    <hr style="border-color: black;">
+                </div>
+            </div>
             <div class="col-md-12 row">
                 <div class="col-md-6">
                     <h3>Nodo Máximo</h3>
